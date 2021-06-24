@@ -1,0 +1,5 @@
+C:\Users\glawless\nelnet-projects\accessmodifier\obj\Debug\net5.0\accessmodifier.csproj.AssemblyReference.cache
+C:\Users\glawless\nelnet-projects\accessmodifier\obj\Debug\net5.0\accessmodifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glawless\nelnet-projects\accessmodifier\obj\Debug\net5.0\accessmodifier.AssemblyInfoInputs.cache
+C:\Users\glawless\nelnet-projects\accessmodifier\obj\Debug\net5.0\accessmodifier.AssemblyInfo.cs
+C:\Users\glawless\nelnet-projects\accessmodifier\obj\Debug\net5.0\accessmodifier.csproj.CoreCompileInputs.cache
