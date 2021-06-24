@@ -3,3 +3,14 @@ C:\Users\glawless\nelnet-projects\accessmodifier\obj\Debug\net5.0\accessmodifier
 C:\Users\glawless\nelnet-projects\accessmodifier\obj\Debug\net5.0\accessmodifier.AssemblyInfoInputs.cache
 C:\Users\glawless\nelnet-projects\accessmodifier\obj\Debug\net5.0\accessmodifier.AssemblyInfo.cs
 C:\Users\glawless\nelnet-projects\accessmodifier\obj\Debug\net5.0\accessmodifier.csproj.CoreCompileInputs.cache
+C:\Users\glawless\nelnet-projects\accessmodifier\bin\Debug\net5.0\accessmodifier.exe
+C:\Users\glawless\nelnet-projects\accessmodifier\bin\Debug\net5.0\accessmodifier.deps.json
+C:\Users\glawless\nelnet-projects\accessmodifier\bin\Debug\net5.0\accessmodifier.runtimeconfig.json
+C:\Users\glawless\nelnet-projects\accessmodifier\bin\Debug\net5.0\accessmodifier.runtimeconfig.dev.json
+C:\Users\glawless\nelnet-projects\accessmodifier\bin\Debug\net5.0\accessmodifier.dll
+C:\Users\glawless\nelnet-projects\accessmodifier\bin\Debug\net5.0\ref\accessmodifier.dll
+C:\Users\glawless\nelnet-projects\accessmodifier\bin\Debug\net5.0\accessmodifier.pdb
+C:\Users\glawless\nelnet-projects\accessmodifier\obj\Debug\net5.0\accessmodifier.dll
+C:\Users\glawless\nelnet-projects\accessmodifier\obj\Debug\net5.0\ref\accessmodifier.dll
+C:\Users\glawless\nelnet-projects\accessmodifier\obj\Debug\net5.0\accessmodifier.pdb
+C:\Users\glawless\nelnet-projects\accessmodifier\obj\Debug\net5.0\accessmodifier.genruntimeconfig.cache
